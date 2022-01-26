@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Astração de um RPG com POO/1.0.0": {
+        "runtime": {
+          "Astração de um RPG com POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Astração de um RPG com POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
